@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gamedev Klub",
+    "description": "",
+    "home_page_url": "https://gamedevklub.hu",
+    "feed_url": "https://gamedevklub.hu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fodi"
+    },
+    "items": [
+    ]
+}
