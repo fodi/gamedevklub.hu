@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-09-18T14:56:16+02:00</updated>
+    <updated>2025-09-21T11:39:56+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -21,14 +21,17 @@
         <updated>2025-09-10T14:25:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/9/gamedev-klub-logo-vector-4_3.png" alt="" />
-                    A Gamedev Klub egy 2025 februárjában indult kezdeményezés, aminek jelenleg a Békés Megyei Könyvtár ad otthont. A klubot két magánszemély szervezi: Fodor Bence (Fodi), szoftver- és videójáték-fejlesztő. Korábban a Kollaborban és&hellip;
+                        <img src="https://gamedevklub.hu/media/posts/9/gamedev-klub-logo-vector-4_3.png" alt="Gamedev Klub logo" />
+                    <p>A <strong>Gamedev Klub</strong> 2025 februárjában indult azzal a céllal, hogy megtalálja és összekösse azokat, akiket érdekel a videójáték-fejlesztés.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/9/gamedev-klub-logo-vector-4_3.png" class="type:primaryImage" alt="" /></p>
-                <p>A <strong>Gamedev Klub</strong> egy 2025 februárjában indult kezdeményezés, aminek jelenleg a <a href="https://konyvtar.bmk.hu/" target="_blank" rel="noopener">Békés Megyei Könyvtár</a> ad otthont. A klubot két magánszemély szervezi:</p>
+                    <p><img src="https://gamedevklub.hu/media/posts/9/gamedev-klub-logo-vector-4_3.png" class="type:primaryImage" alt="Gamedev Klub logo" /></p>
+                <p>A <strong>Gamedev Klub</strong> 2025 februárjában indult azzal a céllal, hogy megtalálja és összekösse azokat, akiket érdekel a videójáték-fejlesztés.</p>
+
+<p>Találkozóinkat általában heti rendszerességgel tartjuk a <a href="https://konyvtar.bmk.hu/" target="_blank" rel="noopener">Békés Megyei Könyvtárban</a>. A klubot két magánszemély szervezi:</p>
 <table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="0">
 <tbody>
 <tr>
@@ -76,14 +79,14 @@
         <updated>2025-09-09T16:50:08+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" alt="" />
+                        <img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" alt="Gamedev Klub heti találkozó @ Digilabor" />
                     <p>A következő Gamedev Klub találkozó 2025. szeptember 24-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" class="type:primaryImage" alt="Gamedev Klub heti találkozó @ Digilabor" /></p>
                 <p>A következő Gamedev Klub találkozó 2025. szeptember 24-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
 
 <p>A részvétel ingyenes, de regisztrációhoz kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href="https://gamedevklub.hu/discord" target="_blank" rel="noopener">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style="text-decoration: underline;">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>
@@ -102,14 +105,14 @@
         <updated>2025-09-09T15:23:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/11/timecat-43.png" alt="" />
+                        <img src="https://gamedevklub.hu/media/posts/11/timecat-43.png" alt="Illusztráció: a TimeCat karakter (kék macska, fekete napszemüvegben, arany koronával és piros kabátban) és felirat" />
                     <p>Első közös játék-projektünket 2025. februárjában, az első Gamedev Klub találkozó után pár nappal kezdtük el fejleszteni. A <a href="https://timecat.gamedevklub.hu/" target="_blank" rel="noopener noreferrer">TimeCat</a> egy félig memória, félig akció játék 1-4 fő részére.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/11/timecat-43.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://gamedevklub.hu/media/posts/11/timecat-43.png" class="type:primaryImage" alt="Illusztráció: a TimeCat karakter (kék macska, fekete napszemüvegben, arany koronával és piros kabátban) és felirat" /></p>
                 <p>Első közös játék-projektünket 2025. februárjában, az első Gamedev Klub találkozó után pár nappal kezdtük el fejleszteni. A <a href="https://timecat.gamedevklub.hu/" target="_blank" rel="noopener noreferrer">TimeCat</a> egy félig memória, félig akció játék 1-4 fő részére.</p>
 
 <p>A játék aktuális verzióját, illetve magyar (és angol) nyelvű leírását itt lehet megtalálni:<br><a href="https://timecat.gamedevklub.hu/" target="_blank" rel="noopener noreferrer">https://timecat.gamedevklub.hu/</a></p>
