@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-09-24T19:54:53+02:00</updated>
+    <updated>2025-09-24T22:42:08+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -64,6 +64,53 @@
 <p>Ha a fentiek felkeltették érdeklődésed, gyere el a következő találkozónkra!</p>
 <p>Általában hetente egyszer, délutánonként találkozunk a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor">Digilabor</a> termében, de jelenleg nem fix napokon. Ha szeretnél eljönni valamelyik alkalommal, kérlek írj e-mailt a <span style="text-decoration: underline;">gamedevklub {kukac} fodi {pont} be</span> címre, vagy csatlakozz a Discord szerverünkhöz és írj Fodinak! A részvétel ingyenes, de a létszámlimit miatt előzetes jelentkezéshez kötött.</p>
 <p>A találkozók és egyéb eseményeink időpontját mindig <a href="https://gamedevklub.hu/aktualis-esemeny/">ezen az oldalon</a> publikáljuk.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Digilabor Game Jam (2025. október 11-22.)</title>
+        <author>
+            <name>Fodi</name>
+        </author>
+        <link href="https://gamedevklub.hu/digilabor-game-jam/"/>
+        <id>https://gamedevklub.hu/digilabor-game-jam/</id>
+        <media:content url="https://gamedevklub.hu/media/posts/13/digilabor-game-jam.png" medium="image" />
+
+        <updated>2025-09-09T17:59:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam.png" alt="" />
+                    <p>Október 11-én indul a Digilabor Game Jam, a Gamedev Klub szervezésében a Békés Megyei Könyvtárban.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam.png" class="type:primaryImage" alt="" /></p>
+                <p>Október 11-én indul a Digilabor Game Jam, a Gamedev Klub szervezésében a Békés Megyei Könyvtárban.</p>
+
+<h2>Game jam? Az mi is?</h2>
+<p>A game jam egy olyan közösségi esemény, mely során a résztvevők egyénileg vagy kis csapatban dolgozva megpróbálnak elkészíteni egy videójátékot (vagy akár társasjátékot), viszonylag rövid idő (jelen esetben 11 nap) alatt.</p>
+<p>Egy game jam kiváló alkalom arra, hogy kicsit kilépjünk a komfortzónánkból, kipróbáljuk magunkat egy (akár szokatlan) szituációban.</p>
+<p>Rengeteget lehet tanulni a jam során, lehet szocializálódni a többiekkel, közösen ötletelni, fejleszteni és tesztelni, visszajelzéseket gyűjteni - és persze a végén örülni a végkifejletnek. Akkor is, ha úgy érezzük, hogy jó lett volna még plusz egy nap, hét, vagy hónap. A jam szervezői, Fodor Bence (Fodi) és Kovács Tibor a műfajt közelről ismerik: 2024-ben több, mint egy tucat játékot készítettek game jam-ekre (többségüket a <a href="https://www.haviegyjatek.hu/games/creators/fodi" target="null">Havi Egy Játék</a> jam-sorozatra). Game jam-et még nem szerveztek, de most ennek is eljött az ideje.</p>
+<p>Mint sok más game jam-en is, lesznek majd választható témák, előreláthatólag három. A témákat inspirációnak szánjuk, nem kötelező őket használni, de akár egyet, akár többet be lehet illeszteni majd a játék koncepciójába egy virtuális plusz pontért.</p>
+<p>A határidő lejárta után arra biztatunk minden résztvevőt, hogy próbálják ki egymás játékát és osszák meg, hogy mi tetszett, mi volt kevésbé jó, miből lehetett volna több és miből kevesebb.</p>
+<p>Ezen a jam-en nem lesz zsűrizés vagy szavazás, de a jövőben lehet, hogy olyan jam is lesz.</p>
+<h2>Mikor, hol, hogyan?</h2>
+<p><strong>A Digilabor Game Jam</strong> <strong>2025. október 11-én indul, 15:00-tól. </strong>Tartunk egy szuperrövid megnyitót és témahirdetést a Békés Megyei Könyvtárban (a terem a jelentkezők számától függ majd), aztán akár már a helyszínen bele lehet kezdeni a projektekbe.</p>
+<p>A jam-en 14 éves kor fölött bárki részt vehet. Fizikai jelenlétet nem igényel, de a jam ideje alatt több alkalommal is lehet majd csatlakozni coworking alkalmakhoz a Digilaborban (vagy környékén), ha valaki szeretne egy légtérben dolgozni másokkal. Legalább egy szervező (Fodi és/vagy Tibi) is jelen lesz ezeken az eseményeken és szívesen segít bárkinek programozás, game design, 2D vagy 3D grafika és audio témában is. Az alkalmak időpontját legkésőbb a nyitó rendezvényen hirdetjük ki.</p>
+<p><strong>A jam beadási határideje</strong> <strong>2025. október 22. reggel 10:00.</strong> Azt javasoljuk, hogy minél hamarabb töltsetek fel egy legalább nagyjából működő verziót, majd időközönként ezt frissítsétek. Ennek technikai részleteiről minden résztvevőt tájékoztatunk majd. Hibajavításokat a határidő után is fel lehet majd tölteni.</p>
+<p>A beadás napján 15:00-tól a Digilaborban tartjuk a záró eseményt, ahol közösen kipróbáljuk a beküldött játékokat is.</p>
+<h2>Jelentkezés</h2>
+<p>Azt szeretnénk, hogy aki eddig csak fontolgatta a game jam műfaj kipróbálását, az bátran csapjon bele; a zöld fül egyáltalán nem gond. A közösség jó fej, segítünk, amiben tudunk.</p>
+<p>Jelentkezni több módon is lehet:</p>
+<ul>
+<li>Az <a href="https://tally.so/r/3E9ZZX" target="_blank" rel="noopener noreferrer">online jelentkezési űrlap</a> kitöltésével,</li>
+<li>a <a href="https://gamedevklub.hu/discord" target="_blank" rel="noopener noreferrer">Gamedev Klub Discord szerverén</a> (írj Fodinak!)</li>
+<li>e-mailben a <a href="mailto:gamedevklub@fodi.be">gamedevklub@fodi.be</a> e-mail címen</li>
+<li>személyesen a <a href="https://gamedevklub.hu/aktualis-esemeny/">legközelebbi eseményünkön</a>.</li>
+</ul>
+<p>Ha valaki a jam indulása után szeretne csatlakozni, arra is van lehetőség.</p>
             ]]>
         </content>
     </entry>
