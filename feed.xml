@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-09-24T22:42:08+02:00</updated>
+    <updated>2025-09-29T11:19:31+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -74,24 +74,24 @@
         </author>
         <link href="https://gamedevklub.hu/digilabor-game-jam/"/>
         <id>https://gamedevklub.hu/digilabor-game-jam/</id>
-        <media:content url="https://gamedevklub.hu/media/posts/13/digilabor-game-jam.png" medium="image" />
+        <media:content url="https://gamedevklub.hu/media/posts/13/digilabor-game-jam-cover-4_3.png" medium="image" />
 
         <updated>2025-09-09T17:59:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam.png" alt="" />
+                        <img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam-cover-4_3.png" alt="" />
                     <p>Október 11-én indul a Digilabor Game Jam, a Gamedev Klub szervezésében a Békés Megyei Könyvtárban.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam-cover-4_3.png" class="type:primaryImage" alt="" /></p>
                 <p>Október 11-én indul a Digilabor Game Jam, a Gamedev Klub szervezésében a Békés Megyei Könyvtárban.</p>
 
 <h2>Game jam? Az mi is?</h2>
 <p>A game jam egy olyan közösségi esemény, mely során a résztvevők egyénileg vagy kis csapatban dolgozva megpróbálnak elkészíteni egy videójátékot (vagy akár társasjátékot), viszonylag rövid idő (jelen esetben 11 nap) alatt.</p>
-<p>Egy game jam kiváló alkalom arra, hogy kicsit kilépjünk a komfortzónánkból, kipróbáljuk magunkat egy (akár szokatlan) szituációban.</p>
+<p>Egy game jam kiváló alkalom arra, hogy kicsit kilépjünk a komfortzónánkból, kipróbáljuk magunkat egy (akár) szokatlan szituációban.</p>
 <p>Rengeteget lehet tanulni a jam során, lehet szocializálódni a többiekkel, közösen ötletelni, fejleszteni és tesztelni, visszajelzéseket gyűjteni - és persze a végén örülni a végkifejletnek. Akkor is, ha úgy érezzük, hogy jó lett volna még plusz egy nap, hét, vagy hónap. A jam szervezői, Fodor Bence (Fodi) és Kovács Tibor a műfajt közelről ismerik: 2024-ben több, mint egy tucat játékot készítettek game jam-ekre (többségüket a <a href="https://www.haviegyjatek.hu/games/creators/fodi" target="null">Havi Egy Játék</a> jam-sorozatra). Game jam-et még nem szerveztek, de most ennek is eljött az ideje.</p>
 <p>Mint sok más game jam-en is, lesznek majd választható témák, előreláthatólag három. A témákat inspirációnak szánjuk, nem kötelező őket használni, de akár egyet, akár többet be lehet illeszteni majd a játék koncepciójába egy virtuális plusz pontért.</p>
 <p>A határidő lejárta után arra biztatunk minden résztvevőt, hogy próbálják ki egymás játékát és osszák meg, hogy mi tetszett, mi volt kevésbé jó, miből lehetett volna több és miből kevesebb.</p>
