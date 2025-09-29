@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-09-29T11:22:36+02:00</updated>
+    <updated>2025-09-29T12:08:17+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -111,6 +111,9 @@
 <li>személyesen a <a href="https://gamedevklub.hu/aktualis-esemeny/">legközelebbi eseményünkön</a>.</li>
 </ul>
 <p>Ha valaki a jam indulása után szeretne csatlakozni, arra is van lehetőség.</p>
+<h2>Plakát</h2>
+<p>Ha szeretnél segíteni abban, hogy a Digilabor Game Jam minél több emberhez jusson el, kérlek oszd meg az alábbi képet másokkal.</p>
+<figure class="post__image post__image--full"><img  src="https://gamedevklub.hu/media/posts/13/digilabor-jam-16_9-rgb.png" alt="" width="1920" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-xs.webp 320w ,https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-sm.webp 480w ,https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-md.webp 768w ,https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-xl.webp 1024w"></figure>
             ]]>
         </content>
     </entry>
