@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-10-11T12:25:52+02:00</updated>
+    <updated>2025-10-11T15:03:40+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -93,12 +93,20 @@
 <p>A game jam egy olyan közösségi esemény, mely során a résztvevők egyénileg vagy kis csapatban dolgozva megpróbálnak elkészíteni egy videójátékot (vagy akár társasjátékot), viszonylag rövid idő (jelen esetben 11 nap) alatt.</p>
 <p>Egy game jam kiváló alkalom arra, hogy kicsit kilépjünk a komfortzónánkból, kipróbáljuk magunkat egy (akár) szokatlan szituációban.</p>
 <p>Rengeteget lehet tanulni a jam során, lehet szocializálódni a többiekkel, közösen ötletelni, fejleszteni és tesztelni, visszajelzéseket gyűjteni - és persze a végén örülni a végkifejletnek. Akkor is, ha úgy érezzük, hogy jó lett volna még plusz egy nap, hét, vagy hónap. A jam szervezői, Fodor Bence (Fodi) és Kovács Tibor a műfajt közelről ismerik: 2024-ben több, mint egy tucat játékot készítettek game jam-ekre (többségüket a <a href="https://www.haviegyjatek.hu/games/creators/fodi" target="null">Havi Egy Játék</a> jam-sorozatra). Game jam-et még nem szerveztek, de most ennek is eljött az ideje.</p>
-<p>Mint sok más game jam-en is, lesznek majd választható témák, előreláthatólag három. A témákat inspirációnak szánjuk, nem kötelező őket használni, de akár egyet, akár többet be lehet illeszteni majd a játék koncepciójába egy virtuális plusz pontért.</p>
+<p>Ahogy sok másikon, ezen a game jam-en is meagdunk témákat, amikből tetszőleges számút (0-5) lehet választani és felhasználni a készülő játékokban. A témák:</p>
+<ol>
+<li>scroll (tekercs, görgetés)</li>
+<li>labyrinth (labirintus)</li>
+<li>cycle (ciklus, ismétlődés, forgás / körforgás, bicikli...)</li>
+<li>mystery (rejtély)</li>
+<li>speed (sebesség)</li>
+</ol>
+<p>A témákat inspirációnak szánjuk, nem kötelező őket használni. Akár szó szerinti, akár elvonatkoztatott értelmezés is belefér.</p>
 <p>A határidő lejárta után arra biztatunk minden résztvevőt, hogy próbálják ki egymás játékát és osszák meg, hogy mi tetszett, mi volt kevésbé jó, miből lehetett volna több és miből kevesebb.</p>
 <p>Ezen a jam-en nem lesz zsűrizés vagy szavazás, de a jövőben lehet, hogy szervezünk majd "versenyszerű" verziót is.</p>
 <h2>Mikor, hol, hogyan?</h2>
 <p><strong>A Digilabor Game Jam 2025. október 11-én indul, 15:00-tól. </strong>Tartunk egy szuperrövid megnyitót és témahirdetést a Békés Megyei Könyvtár Digilabor termében, aztán akár már a helyszínen bele lehet kezdeni a projektekbe.</p>
-<p>A jam-en 14 éves kor fölött bárki részt vehet, felső korhatár nincs. Fizikai jelenlétet nem igényel, de a jam ideje alatt több alkalommal is lehet majd csatlakozni coworking alkalmakhoz a Digilaborban (vagy környékén), ha valaki szeretne egy légtérben dolgozni másokkal. Legalább egy szervező (Fodi és/vagy Tibi) is jelen lesz ezeken az eseményeken és szívesen segít bárkinek programozás, game design, 2D vagy 3D grafika és audio témában is. Az alkalmak időpontját legkésőbb a nyitó rendezvényen hirdetjük ki.</p>
+<p>A jam-en 14 éves kor fölött bárki részt vehet, felső korhatár nincs. Fizikai jelenlétet nem igényel, de a jam ideje alatt több alkalommal lehet majd csatlakozni coworking alkalmakhoz a Digilaborban (vagy környékén), ha valaki szeretne egy légtérben dolgozni másokkal. Legalább egy szervező (Fodi és/vagy Tibi) is jelen lesz ezeken az eseményeken és szívesen segít bárkinek programozás, game design, 2D vagy 3D grafika és audio témában is. Az alkalmak időpontját legkésőbb a nyitó rendezvényen hirdetjük ki.</p>
 <p><strong>A jam beadási határideje 2025. október 22. reggel 10:00.</strong> Azt javasoljuk, hogy minél hamarabb töltsetek fel egy legalább nagyjából működő verziót, majd időközönként ezt frissítsétek. Ennek technikai részleteiről minden résztvevőt tájékoztatunk majd. Hibajavításokat a határidő után is fel lehet majd tölteni.</p>
 <p><strong>A beadás napján 15:00-tól a Digilaborban tartjuk a záró eseményt</strong>, ahol közösen kipróbáljuk a beküldött játékokat is.</p>
 <h2>Jelentkezés</h2>
