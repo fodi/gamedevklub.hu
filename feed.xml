@@ -3,12 +3,38 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-10-22T17:35:00+02:00</updated>
+    <updated>2025-10-23T18:12:51+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
     <id>https://gamedevklub.hu</id>
 
+    <entry>
+        <title>Következő esemény: Gamedev Klub #28 (2025. november 5.)</title>
+        <author>
+            <name>Fodi</name>
+        </author>
+        <link href="https://gamedevklub.hu/aktualis-esemeny/"/>
+        <id>https://gamedevklub.hu/aktualis-esemeny/</id>
+        <media:content url="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" medium="image" />
+
+        <updated>2025-10-23T18:12:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" alt="Gamedev Klub heti találkozó @ Digilabor" />
+                    <p>A következő Gamedev Klub találkozó 2025. november 5-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" class="type:primaryImage" alt="Gamedev Klub heti találkozó @ Digilabor" /></p>
+                <p>A következő Gamedev Klub találkozó 2025. november 5-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
+
+<p>A részvétel ingyenes, de regisztrációhoz kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href="https://gamedevklub.hu/discord" target="_blank" rel="noopener">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style="text-decoration: underline;">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bemutatkozás</title>
         <author>
@@ -64,134 +90,6 @@
 <p>Ha a fentiek felkeltették érdeklődésed, gyere el a következő találkozónkra!</p>
 <p>Általában hetente egyszer, délutánonként találkozunk a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor">Digilabor</a> termében, de jelenleg nem fix napokon. Ha szeretnél eljönni valamelyik alkalommal, kérlek írj e-mailt a <span style="text-decoration: underline;">gamedevklub {kukac} fodi {pont} be</span> címre, vagy csatlakozz a Discord szerverünkhöz és írj Fodinak! A részvétel ingyenes, de a létszámlimit miatt előzetes jelentkezéshez kötött.</p>
 <p>A találkozók és egyéb eseményeink időpontját mindig <a href="https://gamedevklub.hu/aktualis-esemeny/">ezen az oldalon</a> publikáljuk.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Digilabor Game Jam (2025. október 11-22.)</title>
-        <author>
-            <name>Fodi</name>
-        </author>
-        <link href="https://gamedevklub.hu/digilabor-game-jam/"/>
-        <id>https://gamedevklub.hu/digilabor-game-jam/</id>
-        <media:content url="https://gamedevklub.hu/media/posts/13/digilabor-game-jam-cover-4_3.png" medium="image" />
-
-        <updated>2025-09-09T17:59:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam-cover-4_3.png" alt="" />
-                    <p>Október 11-én indul a Digilabor Game Jam, a Gamedev Klub szervezésében a Békés Megyei Könyvtárban.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/13/digilabor-game-jam-cover-4_3.png" class="type:primaryImage" alt="" /></p>
-                <p>Október 11-én indul a Digilabor Game Jam, a Gamedev Klub szervezésében a Békés Megyei Könyvtárban.</p>
-
-<h2>Game jam? Az mi is?</h2>
-<p>A game jam egy olyan közösségi esemény, mely során a résztvevők egyénileg vagy kis csapatban dolgozva megpróbálnak elkészíteni egy videójátékot (vagy akár társasjátékot), viszonylag rövid idő (jelen esetben 11 nap) alatt.</p>
-<p>Egy game jam kiváló alkalom arra, hogy kicsit kilépjünk a komfortzónánkból, kipróbáljuk magunkat egy (akár) szokatlan szituációban.</p>
-<p>Rengeteget lehet tanulni a jam során, lehet szocializálódni a többiekkel, közösen ötletelni, fejleszteni és tesztelni, visszajelzéseket gyűjteni - és persze a végén örülni a végkifejletnek. Akkor is, ha úgy érezzük, hogy jó lett volna még plusz egy nap, hét, vagy hónap. A jam szervezői, Fodor Bence (Fodi) és Kovács Tibor a műfajt közelről ismerik: 2024-ben több, mint egy tucat játékot készítettek game jam-ekre (többségüket a <a href="https://www.haviegyjatek.hu/games/creators/fodi" target="null">Havi Egy Játék</a> jam-sorozatra). Game jam-et még nem szerveztek, de most ennek is eljött az ideje.</p>
-<p>Ahogy sok másikon, ezen a game jam-en is meagdunk témákat, amikből tetszőleges számút (0-5) lehet választani és felhasználni a készülő játékokban. A témák:</p>
-<ol>
-<li>scroll (tekercs, görgetés)</li>
-<li>labyrinth (labirintus)</li>
-<li>cycle (ciklus, ismétlődés, forgás / körforgás, bicikli...)</li>
-<li>mystery (rejtély)</li>
-<li>speed (sebesség)</li>
-</ol>
-<p>A témákat inspirációnak szánjuk, nem kötelező őket használni. Akár szó szerinti, akár elvonatkoztatott értelmezés is belefér.</p>
-<p>A határidő lejárta után arra biztatunk minden résztvevőt, hogy próbálják ki egymás játékát és osszák meg, hogy mi tetszett, mi volt kevésbé jó, miből lehetett volna több és miből kevesebb.</p>
-<p>Ezen a jam-en nem lesz zsűrizés vagy szavazás, de a jövőben lehet, hogy szervezünk majd "versenyszerű" verziót is.</p>
-<h2>Mikor, hol, hogyan?</h2>
-<p><strong>A Digilabor Game Jam 2025. október 11-én indul, 15:00-tól. </strong>Tartunk egy szuperrövid megnyitót és témahirdetést a Békés Megyei Könyvtár Digilabor termében, aztán akár már a helyszínen bele lehet kezdeni a projektekbe.</p>
-<p>A jam-en 14 éves kor fölött bárki részt vehet, felső korhatár nincs. Fizikai jelenlétet nem igényel, de a jam ideje alatt több alkalommal lehet majd csatlakozni coworking alkalmakhoz a Digilaborban (vagy környékén), ha valaki szeretne egy légtérben dolgozni másokkal. Legalább egy szervező (Fodi és/vagy Tibi) is jelen lesz ezeken az eseményeken és szívesen segít bárkinek programozás, game design, 2D vagy 3D grafika és audio témában is. Az alkalmak időpontját legkésőbb a nyitó rendezvényen hirdetjük ki.</p>
-<p><strong>A jam beadási határideje 2025. október 22. reggel 10:00.</strong> Azt javasoljuk, hogy minél hamarabb töltsetek fel egy legalább nagyjából működő verziót, majd időközönként ezt frissítsétek. Ennek technikai részleteiről minden résztvevőt tájékoztatunk majd. Hibajavításokat a határidő után is fel lehet majd tölteni.</p>
-<p><strong>A beadás napján 15:00-tól a Digilaborban tartjuk a záró eseményt</strong>, ahol közösen kipróbáljuk a beküldött játékokat is.</p>
-<h2>Jelentkezés</h2>
-<p>Azt szeretnénk, hogy aki eddig csak fontolgatta a game jam műfaj kipróbálását, az bátran csapjon bele; a zöld fül egyáltalán nem gond. A közösség jó fej, segítünk, amiben tudunk.</p>
-<p>Jelentkezni több módon is lehet:</p>
-<ul>
-<li>Az <a href="https://tally.so/r/3E9ZZX" target="_blank" rel="noopener noreferrer">online jelentkezési űrlap</a> kitöltésével,</li>
-<li>a <a href="https://gamedevklub.hu/discord" target="_blank" rel="noopener noreferrer">Gamedev Klub Discord szerverén</a> (írj Fodinak!)</li>
-<li>e-mailben a <a href="mailto:gamedevklub@fodi.be">gamedevklub@fodi.be</a> e-mail címen</li>
-<li>személyesen a <a href="https://gamedevklub.hu/aktualis-esemeny/">legközelebbi eseményünkön</a>.</li>
-</ul>
-<p>Ha valaki a jam indulása után szeretne csatlakozni, arra is van lehetőség.</p>
-<h2>Plakát</h2>
-<p>Ha szeretnél segíteni abban, hogy a Digilabor Game Jam minél több emberhez jusson el, kérlek oszd meg az alábbi képet másokkal.</p>
-<figure class="post__image post__image--full"><img  src="https://gamedevklub.hu/media/posts/13/digilabor-jam-16_9-rgb.png" alt="" width="1920" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-xs.webp 320w ,https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-sm.webp 480w ,https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-md.webp 768w ,https://gamedevklub.hu/media/posts/13/responsive/digilabor-jam-16_9-rgb-xl.webp 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Következő esemény: Digilabor Game Jam záró (2025. november 5.)</title>
-        <author>
-            <name>Fodi</name>
-        </author>
-        <link href="https://gamedevklub.hu/aktualis-esemeny/"/>
-        <id>https://gamedevklub.hu/aktualis-esemeny/</id>
-        <media:content url="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" medium="image" />
-
-        <updated>2025-09-09T16:50:08+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" alt="Gamedev Klub heti találkozó @ Digilabor" />
-                    <p>A következő Gamedev Klub találkozó 2025. november 5-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" class="type:primaryImage" alt="Gamedev Klub heti találkozó @ Digilabor" /></p>
-                <p>A következő Gamedev Klub találkozó 2025. november 5-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
-
-<p>A részvétel ingyenes, de regisztrációhoz kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href="https://gamedevklub.hu/discord" target="_blank" rel="noopener">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style="text-decoration: underline;">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Első projektünk: TimeCat</title>
-        <author>
-            <name>Fodi</name>
-        </author>
-        <link href="https://gamedevklub.hu/timecat/"/>
-        <id>https://gamedevklub.hu/timecat/</id>
-        <media:content url="https://gamedevklub.hu/media/posts/11/timecat-43.png" medium="image" />
-
-        <updated>2025-09-09T15:23:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gamedevklub.hu/media/posts/11/timecat-43.png" alt="Illusztráció: a TimeCat karakter (kék macska, fekete napszemüvegben, arany koronával és piros kabátban) és felirat" />
-                    <p>Első közös játék-projektünket 2025. februárjában, az első Gamedev Klub találkozó után pár nappal kezdtük el fejleszteni. A <a href="https://timecat.gamedevklub.hu/" target="_blank" rel="noopener noreferrer">TimeCat</a> egy félig memória, félig akció játék 1-4 fő részére.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gamedevklub.hu/media/posts/11/timecat-43.png" class="type:primaryImage" alt="Illusztráció: a TimeCat karakter (kék macska, fekete napszemüvegben, arany koronával és piros kabátban) és felirat" /></p>
-                <p>Első közös játék-projektünket 2025. februárjában, az első Gamedev Klub találkozó után pár nappal kezdtük el fejleszteni. A <a href="https://timecat.gamedevklub.hu/" target="_blank" rel="noopener noreferrer">TimeCat</a> egy félig memória, félig akció játék 1-4 fő részére.</p>
-
-<p>A játék aktuális verzióját, illetve magyar (és angol) nyelvű leírását itt lehet megtalálni:<br><a href="https://timecat.gamedevklub.hu/" target="_blank" rel="noopener noreferrer">https://timecat.gamedevklub.hu/</a></p>
-<p>A főszereplő karakter koncepcióját <strong>Szabi</strong> dolgozta ki, a játék grafikáját ő és <strong>Tibor</strong> megosztva készítették. A játék programozását <strong>Fodi</strong> vállalta magára, a játék "modolásához" pedig <strong>Bence</strong> fejlesztett egy <a href="https://nemetbence.github.io/gamedev/" target="_blank" rel="noopener noreferrer">külön webappot</a>. A játék zenéjét <strong>Boti</strong> és <strong>Regő</strong> szerezte (mindketten 1-1 dalt). A tesztelés és bug-vadászat oroszlánrészét <strong>Angelika</strong>,<strong> Avti</strong>,<strong> Geri</strong>,<strong> Geyza </strong>és<strong> Matyi</strong> végezte.</p>
-<p>A játék mechanikáit a találkozókon közösen találtuk ki, így a "game design" kredit közös. A játékot <a href="https://www.youtube.com/watch?v=WtDPNoVGZIw" target="_blank" rel="noopener noreferrer">iteratív módszerrel</a> fejlesztettük, azaz különösebb mesterterv nélkül fokozatosan pakoltuk bele a funkciókat, majd teszteltük, hogy mi működik jól és mi nem.</p>
-<p>A fejlesztés egy részét streameltük is, VOD-okba itt belenézni:</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Avb-dyU2Lfg">1. rész: 2025. február 24.</a></li>
-<li><a href="https://www.youtube.com/watch?v=Bo3O3EsLkc4">2. rész: 2025. február 26.</a></li>
-<li><a href="https://www.youtube.com/watch?v=jpBkuBf7tfU">3. rész: 2025. március 10.</a></li>
-</ul>
-<p>A <a href="https://www.haviegyjatek.hu/" target="_blank" rel="noopener noreferrer">Havi Egy Játék</a>-os barátainknak hála 2025. május 17-én lehetőségünk volt a TimeCat demóját bemutatni a második Gamer Weekend rendezvényen, a budapesti Bálna Honvédelmi Központban, ami valahogy így nézett ki:</p>
-<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://gamedevklub.hu/media/posts/11/gallery/20250517_154949.jpg" data-size="3264x2448"><img src="https://gamedevklub.hu/media/posts/11/gallery/20250517_154949-thumbnail.webp" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://gamedevklub.hu/media/posts/11/gallery/0517-Gamerweekend-33.jpg" data-size="2560x1707"><img src="https://gamedevklub.hu/media/posts/11/gallery/0517-Gamerweekend-33-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://gamedevklub.hu/media/posts/11/gallery/0517-Gamerweekend-231.jpg" data-size="2560x1707"><img src="https://gamedevklub.hu/media/posts/11/gallery/0517-Gamerweekend-231-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://gamedevklub.hu/media/posts/11/gallery/20250517_104855.jpg" data-size="4000x3000"><img src="https://gamedevklub.hu/media/posts/11/gallery/20250517_104855-thumbnail.webp" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://gamedevklub.hu/media/posts/11/gallery/0517-Gamerweekend-98.jpg" data-size="2560x1707"><img src="https://gamedevklub.hu/media/posts/11/gallery/0517-Gamerweekend-98-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://gamedevklub.hu/media/posts/11/gallery/20250517_141055.jpg" data-size="3264x2448"><img src="https://gamedevklub.hu/media/posts/11/gallery/20250517_141055-thumbnail.webp" alt="" width="768" height="576"></a></figure>
-</div></div>
-<p> </p>
             ]]>
         </content>
     </entry>
