@@ -19,7 +19,7 @@
         <media:content url="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" medium="image" />
 
         <updated>2025-10-23T18:12:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" alt="Gamedev Klub heti találkozó @ Digilabor" />
                     <p>A következő Gamedev Klub találkozó 2025. november 5-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
@@ -45,7 +45,7 @@
         <media:content url="https://gamedevklub.hu/media/posts/9/gamedev-klub-logo-vector-4_3.png" medium="image" />
 
         <updated>2025-09-10T14:25:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gamedevklub.hu/media/posts/9/gamedev-klub-logo-vector-4_3.png" alt="Gamedev Klub logo" />
                     <p>A <strong>Gamedev Klub</strong> 2025 februárjában indult azzal a céllal, hogy megtalálja és összekösse azokat, akiket érdekel a videójáték-fejlesztés.</p>
