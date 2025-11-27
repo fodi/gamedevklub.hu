@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://gamedevklub.hu/aktualis-esemeny/</loc>
-<lastmod>2025-11-20T13:39:02+01:00</lastmod>
+<lastmod>2025-11-27T15:28:24+01:00</lastmod>
 <image:image>
 <image:loc>https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png</image:loc>
 <image:title><![CDATA[Gamedev Klub heti találkozó @ Digilabor]]></image:title>
@@ -42,6 +42,10 @@
 </url>
 <url>
 <loc>https://gamedevklub.hu/discord/</loc>
+</url>
+<url>
+<loc>https://gamedevklub.hu/esemenyek/</loc>
+<lastmod>2025-11-27T15:29:33+01:00</lastmod>
 </url>
 <url>
 <loc>https://gamedevklub.hu/ilyen-volt-a-digilabor-game-jam/</loc>
@@ -92,16 +96,16 @@
 <lastmod>2025-06-11T12:24:53+02:00</lastmod>
 </url>
 <url>
-<loc>https://gamedevklub.hu/korabbi-esemenyeink/</loc>
-<lastmod>2025-11-20T13:39:44+01:00</lastmod>
-</url>
-<url>
 <loc>https://gamedevklub.hu/letoltheto-anyagok/</loc>
 <lastmod>2025-03-10T15:52:43+01:00</lastmod>
 </url>
 <url>
 <loc>https://gamedevklub.hu/linkek/</loc>
 <lastmod>2025-11-18T11:00:31+01:00</lastmod>
+</url>
+<url>
+<loc>https://gamedevklub.hu/linkek-proceduralis-generalas/</loc>
+<lastmod>2025-11-26T21:03:23+01:00</lastmod>
 </url>
 <url>
 <loc>https://gamedevklub.hu/timecat/</loc>
