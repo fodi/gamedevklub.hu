@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2025-12-24T21:17:05+01:00</updated>
+    <updated>2025-12-24T21:38:04+01:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td style="width: 49.943%;">
-<p><a href="https://fodi.be" target="_blank" rel="noopener">Fodor Bence</a> (Fodi), szoftver- és videójáték-fejlesztő. Korábban a <a href="https://kollabor.hu/" target="_blank" rel="noopener noreferrer">Kollaborban</a> és a megye több iskolájában is tartott a témában foglalkozásokat.</p>
+<p><a href="https://fodi.be" target="_blank" rel="noopener">Fodor Bence</a> (Fodi), web- és videójáték-fejlesztő. Korábban a <a href="https://kollabor.hu/" target="_blank" rel="noopener noreferrer">Kollaborban</a> és a megye több iskolájában is tartott a témában foglalkozásokat.</p>
 </td>
 <td style="width: 49.943%;">
 <p><a href="https://www.artstation.com/teebor9" target="_blank" rel="noopener">Kovács Tibor</a>, grafikus és tárgyalkotó, jelmezkészítő.</p>
@@ -85,10 +85,10 @@
 <h1>Mivel foglalkozunk?</h1>
 <p>Programjainkat igyekszünk a résztvevők igényei szerint kialakítani. Az első alkalommal kötetlen beszélgetéssel indítottunk, a másodikon már bele is kezdtünk az <a href="https://gamedevklub.hu/timecat/">első közös projektünk</a> fejlesztésébe. Tartottunk már játék engine bemutatókat (Roblox, Godot, GameMaker, Construct 3), közösen kipróbáltunk több pixelgrafikus és zeneszerkesztő programot, belekóstoltunk a hangrögzítés és -szerkesztés világába és rendszeresen ötletelünk game jam-ek és közös projektek kapcsán. A klubban mindenki lehetőséget kap saját alkotásai bemutatására és visszajelzések gyűjtésére.</p>
 <p>Kőbe vésett hosszú távú terveink nincsenek, továbbra is a résztvevők igényei alapján igyekszünk kialakítani programjainkat. Elsősorban fejlesztői bemutatók, gyorstalpalók és közösen fejlesztett projektek segítségével szeretnénk továbbfejlődni, népszerűsíteni a játékfejlesztést és felépíteni egy aktív, befogadó közösséget.</p>
-<p>A klubot jelenleg hobbiból, nonprofit módon üzemeltetjük és a közeljövőben nem is tervezzük ezt megváltoztatni.</p>
+<p>A klubot jelenleg hobbiból, nonprofit módon üzemeltetjük és a egyelőre nem is tervezzünk ezen változtatni.</p>
 <h1>Nézz be hozzánk!</h1>
 <p>Ha a fentiek felkeltették érdeklődésed, gyere el a következő találkozónkra!</p>
-<p>Általában hetente egyszer, délutánonként találkozunk a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor">Digilabor</a> termében, de jelenleg nem fix napokon. Ha szeretnél eljönni valamelyik alkalommal, kérlek írj e-mailt a <span style="text-decoration: underline;">gamedevklub {kukac} fodi {pont} be</span> címre, vagy csatlakozz a Discord szerverünkhöz és írj Fodinak! A részvétel ingyenes, de a létszámlimit miatt előzetes jelentkezéshez kötött.</p>
+<p>Általában hetente egyszer, délutánonként találkozunk a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor">Digilabor</a> termében, általában szerdánként 15:00-tól, de vannak kivételek. Ha szeretnél eljönni valamelyik alkalommal, kérlek írj e-mailt a <span style="text-decoration: underline;">gamedevklub {kukac} fodi {pont} be</span> címre, vagy csatlakozz a Discord szerverünkhöz és írj Fodinak! A részvétel ingyenes, de előzetes jelentkezéshez kötött.</p>
 <p>A találkozók és egyéb eseményeink időpontját mindig <a href="https://gamedevklub.hu/aktualis-esemeny/">ezen az oldalon</a> publikáljuk.</p>
             ]]>
         </content>
