@@ -13,9 +13,9 @@
         {
             "id": "https://gamedevklub.hu/aktualis-esemeny/",
             "url": "https://gamedevklub.hu/aktualis-esemeny/",
-            "title": "Következő esemény: Gamedev Klub #37 (2026. január 28.)",
-            "summary": "<p>A következő Gamedev Klub találkozó 2026. január 28-án (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n",
-            "content_html": "<p>A következő Gamedev Klub találkozó 2026. január 28-án (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n\n<p>A részvétel ingyenes, de regisztrációhoz kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href=\"https://gamedevklub.hu/discord\" target=\"_blank\" rel=\"noopener\">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style=\"text-decoration: underline;\">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>",
+            "title": "Következő esemény: Gamedev Klub #38 (2026. február 4.)",
+            "summary": "<p>A következő Gamedev Klub találkozó 2026. február 4-én (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n",
+            "content_html": "<p>A következő Gamedev Klub találkozó 2026. február 4-én (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n\n<p>A részvétel ingyenes, de regisztrációhoz kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href=\"https://gamedevklub.hu/discord\" target=\"_blank\" rel=\"noopener\">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style=\"text-decoration: underline;\">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>",
             "image": "https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png",
             "author": {
                 "name": "Fodi"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2025-10-23T18:12:00+02:00",
-            "date_modified": "2026-01-21T18:32:51+01:00"
+            "date_modified": "2026-01-28T18:52:44+01:00"
         },
         {
             "id": "https://gamedevklub.hu/bemutatkozas/",
