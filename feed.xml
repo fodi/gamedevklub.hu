@@ -3,7 +3,7 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2026-06-24T19:24:13+02:00</updated>
+    <updated>2026-06-24T20:04:32+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://gamedevklub.hu/gamedev-klub-summer-jam-2026/"/>
         <id>https://gamedevklub.hu/gamedev-klub-summer-jam-2026/</id>
         <media:content url="https://gamedevklub.hu/media/posts/16/gdksummerjam2026.png" medium="image" />
+            <category term="Jam"/>
 
         <updated>2026-06-24T19:17:02+02:00</updated>
             <summary type="html">
