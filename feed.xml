@@ -3,14 +3,41 @@
     <title>Gamedev Klub</title>
     <link href="https://gamedevklub.hu/feed.xml" rel="self" />
     <link href="https://gamedevklub.hu" />
-    <updated>2026-06-10T15:15:07+02:00</updated>
+    <updated>2026-06-24T19:24:13+02:00</updated>
     <author>
         <name>Fodi</name>
     </author>
     <id>https://gamedevklub.hu</id>
 
     <entry>
-        <title>Következő esemény: Gamedev Klub #54 (2026. június 24.)</title>
+        <title>Gamedev Klub Summer Jam 2026</title>
+        <author>
+            <name>Fodi</name>
+        </author>
+        <link href="https://gamedevklub.hu/gamedev-klub-summer-jam-2026/"/>
+        <id>https://gamedevklub.hu/gamedev-klub-summer-jam-2026/</id>
+        <media:content url="https://gamedevklub.hu/media/posts/16/gdksummerjam2026.png" medium="image" />
+
+        <updated>2026-06-24T19:17:02+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://gamedevklub.hu/media/posts/16/gdksummerjam2026.png" alt="" />
+                    <p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gamedevklub.hu/media/posts/16/gdksummerjam2026.png" class="type:primaryImage" alt="" /></p>
+                <p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>
+
+<p>A formátum kb. egyezik a tavalyik Digilabor Game Jam-ével, előreláthatólag 3-5 opcionális téma közül lehet majd választani és ezúttal 3 hétig (2026. július 29-én 15:00-ig) lehet majd dolgozni a játékokon. A jam nyitott, "külsős" fejlesztők műveit is szívesen fogadjuk, egyedül annyit kérünk mindenkitől, hogy a jam-re beküldött játékok férjenek bele a 14+ kategóriába.</p>
+<p>Ezt a posztot hamarosan™ frissítjük még pár részlettel és feltöltjük a flyert is, amint elkészül :)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Következő esemény: Gamedev Klub #55 (2026. július 1.)</title>
         <author>
             <name>Fodi</name>
         </author>
@@ -22,14 +49,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" alt="Gamedev Klub heti találkozó @ Digilabor" />
-                    <p>A következő Gamedev Klub találkozó 2026. június 24-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
+                    <p>A következő Gamedev Klub találkozó 2026. július 1-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png" class="type:primaryImage" alt="Gamedev Klub heti találkozó @ Digilabor" /></p>
-                <p>A következő Gamedev Klub találkozó 2026. június 24-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
+                <p>A következő Gamedev Klub találkozó 2026. július 1-én (szerdán) lesz a Békés Megyei Könyvtár <a href="https://konyvtar.bmk.hu/digilabor" target="_blank" rel="noopener noreferrer">Digilabor</a> termében 15:00-tól.</p>
 
 <p>A részvétel ingyenes, de előzetes jelentkezéshez kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href="https://gamedevklub.hu/discord" target="_blank" rel="noopener">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style="text-decoration: underline;">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>
             ]]>

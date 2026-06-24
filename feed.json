@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://gamedevklub.hu/gamedev-klub-summer-jam-2026/",
+            "url": "https://gamedevklub.hu/gamedev-klub-summer-jam-2026/",
+            "title": "Gamedev Klub Summer Jam 2026",
+            "summary": "<p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>\n",
+            "content_html": "<p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>\n\n<p>A formátum kb. egyezik a tavalyik Digilabor Game Jam-ével, előreláthatólag 3-5 opcionális téma közül lehet majd választani és ezúttal 3 hétig (2026. július 29-én 15:00-ig) lehet majd dolgozni a játékokon. A jam nyitott, \"külsős\" fejlesztők műveit is szívesen fogadjuk, egyedül annyit kérünk mindenkitől, hogy a jam-re beküldött játékok férjenek bele a 14+ kategóriába.</p>\n<p>Ezt a posztot hamarosan™ frissítjük még pár részlettel és feltöltjük a flyert is, amint elkészül :)</p>",
+            "image": "https://gamedevklub.hu/media/posts/16/gdksummerjam2026.png",
+            "author": {
+                "name": "Fodi"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-24T19:17:02+02:00",
+            "date_modified": "2026-06-24T19:24:13+02:00"
+        },
+        {
             "id": "https://gamedevklub.hu/aktualis-esemeny/",
             "url": "https://gamedevklub.hu/aktualis-esemeny/",
-            "title": "Következő esemény: Gamedev Klub #54 (2026. június 24.)",
-            "summary": "<p>A következő Gamedev Klub találkozó 2026. június 24-én (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n",
-            "content_html": "<p>A következő Gamedev Klub találkozó 2026. június 24-én (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n\n<p>A részvétel ingyenes, de előzetes jelentkezéshez kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href=\"https://gamedevklub.hu/discord\" target=\"_blank\" rel=\"noopener\">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style=\"text-decoration: underline;\">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>",
+            "title": "Következő esemény: Gamedev Klub #55 (2026. július 1.)",
+            "summary": "<p>A következő Gamedev Klub találkozó 2026. július 1-én (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n",
+            "content_html": "<p>A következő Gamedev Klub találkozó 2026. július 1-én (szerdán) lesz a Békés Megyei Könyvtár <a href=\"https://konyvtar.bmk.hu/digilabor\" target=\"_blank\" rel=\"noopener noreferrer\">Digilabor</a> termében 15:00-tól.</p>\n\n<p>A részvétel ingyenes, de előzetes jelentkezéshez kötött. Ha szeretnél jönni, kérlek csatlakozz a <a href=\"https://gamedevklub.hu/discord\" target=\"_blank\" rel=\"noopener\">Discord szerverünkhöz</a> és írj Fodinak, vagy küldj e-mailt a <span style=\"text-decoration: underline;\">gamedevklub (kakaóscsiga) fodi (pont) be</span> címre.</p>",
             "image": "https://gamedevklub.hu/media/posts/10/gamedevklub-post-cover-43-meetup-2.png",
             "author": {
                 "name": "Fodi"
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2025-10-23T18:12:00+02:00",
-            "date_modified": "2026-06-10T15:15:07+02:00"
+            "date_modified": "2026-06-24T18:19:02+02:00"
         },
         {
             "id": "https://gamedevklub.hu/bemutatkozas/",
