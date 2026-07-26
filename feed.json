@@ -15,8 +15,8 @@
             "url": "https://gamedevklub.hu/gamedev-klub-summer-jam-2026/",
             "title": "Gamedev Klub Summer Jam 2026",
             "summary": "<p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>\n",
-            "content_html": "<p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>\n\n<p>A formátum kb. egyezik a tavalyik Digilabor Game Jam-ével, előreláthatólag 3-5 opcionális téma közül lehet majd választani és ezúttal 3 hétig (2026. július 29-én 15:00-ig) lehet majd dolgozni a játékokon. A jam nyitott, \"külsős\" fejlesztők műveit is szívesen fogadjuk, egyedül annyit kérünk mindenkitől, hogy a jam-re beküldött játékok férjenek bele a 14+ kategóriába.</p>\n<p>Ezt a posztot hamarosan™ frissítjük még pár részlettel és feltöltjük a flyert is, amint elkészül :)</p>",
-            "image": "https://gamedevklub.hu/media/posts/16/gdksummerjam2026.png",
+            "content_html": "<p>2026. július 8-án délután 3 órától indul a második saját szervezésű jam-ünk, aminek a fenti nevet adtuk. Részletek alább!</p>\n\n<p>A formátum kb. egyezik a tavalyik Digilabor Game Jam-ével, előreláthatólag 3-5 opcionális téma közül lehet majd választani és ezúttal 3 hétig (2026. július 29-én 15:00-ig) lehet majd dolgozni a játékokon. A jam nyitott, \"külsős\" fejlesztők műveit is szívesen fogadjuk, egyedül annyit kérünk mindenkitől, hogy a jam-re beküldött játékok férjenek bele a 14+ kategóriába.</p>\n<p>A jam témái (és egy opcionálisan használható módosító):</p>\n<figure class=\"post__image\"><img  src=\"https://gamedevklub.hu/media/posts/16/temak.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://gamedevklub.hu/media/posts/16/responsive/temak-xs.webp 320w ,https://gamedevklub.hu/media/posts/16/responsive/temak-sm.webp 480w ,https://gamedevklub.hu/media/posts/16/responsive/temak-md.webp 768w ,https://gamedevklub.hu/media/posts/16/responsive/temak-xl.webp 1024w\"></figure>",
+            "image": "https://gamedevklub.hu/media/posts/16/temak-2.png",
             "author": {
                 "name": "Fodi"
             },
@@ -24,7 +24,7 @@
                    "Jam"
             ],
             "date_published": "2026-06-24T19:17:02+02:00",
-            "date_modified": "2026-06-24T20:04:32+02:00"
+            "date_modified": "2026-07-26T15:34:10+02:00"
         },
         {
             "id": "https://gamedevklub.hu/aktualis-esemeny/",
